@@ -237,7 +237,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nRows: 8
   nCols: 14
-  nBombs: 5
+  nBombs: 13
   tilePrefab: {fileID: 7721265844121385096, guid: b5da7deb03dd1f94793485005066b275, type: 3}
 --- !u!4 &1480128803
 Transform:
